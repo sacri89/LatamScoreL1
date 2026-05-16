@@ -1,0 +1,36 @@
+0 verbose cli /usr/bin/node /usr/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@10.9.7
+2 info using node@v22.22.2
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/hb_1961/latamscore/.npmrc
+5 silly config load:file:/home/hb_1961/.npmrc
+6 silly config load:file:/usr/etc/npmrc
+7 verbose title npm exec create-next-app@latest .
+8 verbose argv "exec" "--" "create-next-app@latest" "."
+9 verbose logfile logs-max:10 dir:/home/hb_1961/.npm/_logs/2026-05-16T16_58_30_509Z-
+10 verbose logfile /home/hb_1961/.npm/_logs/2026-05-16T16_58_30_509Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+14 http fetch GET 200 https://registry.npmjs.org/create-next-app 2800ms (cache miss)
+15 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+16 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+17 silly idealTree buildDeps
+18 silly fetch manifest create-next-app@16.2.6
+19 silly packumentCache full:https://registry.npmjs.org/create-next-app cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/create-next-app 542ms (cache miss)
+21 silly packumentCache full:https://registry.npmjs.org/create-next-app set size:undefined disposed:false
+22 silly placeDep ROOT create-next-app@16.2.6 OK for:  want: 16.2.6
+23 silly reify moves {}
+24 silly audit bulk request { 'create-next-app': [ '16.2.6' ] }
+25 http cache create-next-app@https://registry.npmjs.org/create-next-app/-/create-next-app-16.2.6.tgz 0ms (cache hit)
+26 silly tarball no local data for create-next-app@https://registry.npmjs.org/create-next-app/-/create-next-app-16.2.6.tgz. Extracting by manifest.
+27 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 168ms
+28 silly audit report {}
+29 http fetch GET 200 https://registry.npmjs.org/create-next-app/-/create-next-app-16.2.6.tgz 649ms (cache miss)
+30 verbose cwd /home/hb_1961/latamscore/frontend
+31 verbose os Linux 6.6.114.1-microsoft-standard-WSL2
+32 verbose node v22.22.2
+33 verbose npm  v10.9.7
+34 verbose exit 0
+35 info ok

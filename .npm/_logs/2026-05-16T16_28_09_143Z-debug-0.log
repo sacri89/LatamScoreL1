@@ -1,0 +1,19 @@
+0 verbose cli /usr/bin/node /usr/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@10.9.7
+2 info using node@v22.22.2
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/hb_1961/latamscore/.npmrc
+5 silly config load:file:/home/hb_1961/.npmrc
+6 silly config load:file:/usr/etc/npmrc
+7 verbose title npm exec hardhat console --network latamscorel1
+8 verbose argv "exec" "--" "hardhat" "console" "--network" "latamscorel1"
+9 verbose logfile logs-max:10 dir:/home/hb_1961/.npm/_logs/2026-05-16T16_28_09_143Z-
+10 verbose logfile /home/hb_1961/.npm/_logs/2026-05-16T16_28_09_143Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 verbose cwd /home/hb_1961/latamscore
+14 verbose os Linux 6.6.114.1-microsoft-standard-WSL2
+15 verbose node v22.22.2
+16 verbose npm  v10.9.7
+17 verbose exit 0
+18 info ok
